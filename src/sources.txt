@@ -1,3 +1,0 @@
-E:\CompSciVids\DVDScreenSaver\code\DVD.java
-E:\CompSciVids\DVDScreenSaver\code\DVDView.java
-E:\CompSciVids\DVDScreenSaver\code\resources\Resources.java
